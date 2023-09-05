@@ -1,1 +1,1 @@
-# royecto MVC con PHP puro.
+# proyecto MVC con PHP puro.
